@@ -1,0 +1,472 @@
+body{
+     height: 100%;
+}
+
+@font-face {
+     font-family: pop1;
+     src: url(fonts/Oswald-VariableFont_wght.ttf);
+}
+
+@font-face {
+     font-family: pop2;
+     src: url(fonts/Poppins-Regular.ttf);
+}
+
+.bg-holder{
+     background: url(toyotaLandCruiser.jpg);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-color: #000;
+}
+
+.div1{ 
+     padding: 12.5% 0% 20% 0%;
+}
+
+/* #deep{
+     position: absolute;
+     border: 10px solid rgb(255, 255, 255);
+     width: 60%;
+     height: 3%;
+     opacity: 100%;
+     margin: 0% 0% 0% 0%;
+} */
+
+#tes1{
+
+     font-weight: 700;
+     font-family: pop1;
+     color:#ffffff ;
+     font-size: 60px;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+@media (max-width:576px){
+     #tes1{
+          font-weight: 700;
+          font-family: pop1;
+          color:#ffffff ;
+          font-size: 35px;
+          text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+     }
+}
+
+#tes2{
+     font-weight: 700;
+     font-family: pop1;
+     color:#facd3d;
+     font-size: 100px;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+@media (max-width:576px){
+     #tes2{
+          font-weight: 700;
+          font-family: pop1;
+          color:#facd3d;
+          font-size: 65px;
+          text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+     }
+}
+#tes3{
+     font-weight: 700;
+     font-family: pop1;
+     color:white;
+     font-size: 60px;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+@media (max-width:576px){
+     #tes3{
+          font-weight: 700;
+          font-family: pop1;
+          color:white;
+          font-size: 35px;
+          text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+     }
+}
+/* the conqueror of the wolrd over */
+
+.bg-holder1{
+     background: url(land1.png);
+     background-color: #000;
+     background-position: center;
+     background-repeat: no-repeat;
+}
+
+#tes4{
+     font-weight: 700;
+     font-family: pop1;
+     color:white;
+     font-size: 30px;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#tes5{
+     font-weight: 700;
+     color:#facd3d;
+     font-family: pop1;
+     font-size: 60px;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#tes6{
+     font-weight: 700;
+     font-family: pop1;
+     color:white;
+     font-size: 40px;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#para{
+     font-family: pop2;
+     width: 75%;
+     opacity: 100%;
+     color: #ffffff;
+     padding:14% 0% 5% 0%;
+}
+
+#para1{
+     font-family: pop2;
+     width: 75%;
+     opacity: 100%;
+     color: #ffffff;
+     padding:0% 0% 0% 0%;
+}
+#para2{
+     font-family: pop2;
+     width: 75%;
+     opacity: 100%;
+     color: #ffffff;
+     padding:0% 0% 45% 0%;
+}
+
+.world1{
+     padding:7% 0% 10% 0%;
+
+}
+
+
+
+ .bg-holder2{
+     background-image: #000;
+     padding: 0% 0% 5% 0%;
+}
+
+
+#three1{
+     color: white;
+     font-family: pop1;
+     font-size: 30px;
+     font-weight: 900;
+}
+
+#three2{
+     color: #facd3d;
+     font-family: pop1;
+     font-size: 65px;
+     font-weight: 900;
+
+}
+
+#icon1{
+     height:35%; 
+     width:25%;
+     padding:0.25% 0% 1% 0%;
+}
+#icon11{
+     color: #ffffff;
+     font-family: pop1;
+     padding:0.25% 0% 1% 0%;
+     width: 60%;
+}
+
+#icon111{
+     color: #ffffff;
+     font-family: pop2;
+     width: 90%;
+     /* padding: 2% 0% 44% 0%; */
+}
+
+.plox{
+     background-color: #000;
+}
+.service{
+     padding: 5.5% 0% 5% 0%;
+}
+
+.comfort{
+     padding: 12.5% 0% 20% 0%;
+}
+
+.bg-holder5{
+     background: url(toyotaLandCruiserv82015exteriort.jpg);
+     background-color: #000;
+     background-position: center;
+     background-repeat: no-repeat;
+}
+
+.srs{
+     padding: 20% 0% 19.5% 0%;
+}
+@media (max-width:576px) {
+     .srs{
+          padding: 40% 0% 40% 0%;
+     }
+     
+}
+#srs1{
+     font-family: pop1;
+     font-weight: 700;
+     color: #ffffff;
+     font-size: 40px;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+@media (max-width:576px) {
+     #srs1{
+          margin-left: 5%;
+     }} 
+#srs2{
+     font-family: pop1;
+     font-weight: 900;
+     color: #facd3d;
+     font-size: 100px;
+     
+}
+@media (max-width:576px) {
+     #srs2{
+          margin-left: 5%;
+          font-family: pop1;
+          font-weight: 900;
+          color: #facd3d;
+          font-size: 80px;
+          text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+          padding: 0% 0% 0% 0%;
+     }
+     
+}
+#srs3{
+     font-family: pop2;
+     font-weight: 700;
+     font-size: 25px;
+}   
+@media (max-width:576px) {
+     #srs3{
+          margin-left: 5%;
+     }} 
+
+
+     .bg-holder6{
+          /* background: url(toyotaLandspeed.png); */
+          background-color: #000;
+          background-position: center;
+          background-repeat: no-repeat;
+          width: 100%;
+          padding:0% 0% 0% 0%;
+     }
+     #exterior{  
+          padding: 11% 0% 0% 0%;
+          position: relative;
+     }
+     .exterior1{
+          font-family: pop1;
+          color: #ffffff;
+          font-size: 2.5rem;
+          font-weight: 700;
+          text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+     }
+     .exterior2{
+          font-family: pop1;
+          color:#facd3d;
+          font-size: 4.5rem;
+          font-weight: 900;
+
+     }
+  .exterior3{
+          font-size: 15px;
+   }
+   #speed{
+     padding: 0% 0% 0% 0%;
+     width: 100%;
+ 
+   }
+
+   .bg-holder7{
+     /* background: url(toyotaLandspeed.png); */
+     background-color: #000;
+     background-position: center;
+     background-repeat: no-repeat;
+     width: 100%;
+     padding:10% 0% 5% 0%;
+}
+
+   #six1{  font-family: pop1;
+     color: #ffffff;
+     font-size: 1.9rem;
+     font-weight: 900;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+     padding:0% 0% 0% 0%;
+}
+   #six2{    font-family: pop1;
+     color:#facd3d;
+     font-size: 4.5rem;
+     font-weight: 900;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+     padding:0% 0% 0% 0%;
+}
+@media (min-width:1200px) {
+
+#car1 {
+     height: 50%;
+     width: 30%;
+}}
+ 
+@media (min-width:1200px) {
+     
+ #car2 {
+     height: 50%;
+     width: 30%;
+ }
+}
+@media (min-width:1200px) {
+     #car3 {
+     height: 50%;
+     width: 30%;
+ }
+}
+ 
+.bg-holder8{
+     /* background: url(toyotaLandspeed.png); */
+     background-color: #000;
+     background-position: center;
+     background-repeat: no-repeat;
+     width: 100%;
+     padding:4% 0% 7% 0%;
+}
+
+
+/* form startwd */
+.bg-holder10{
+     background: url(formbg.jpg);
+     background-position: center;
+     background-repeat: no-repeat;
+     width: 100%;
+     padding:1% 0% 1% 0%;
+}
+
+.con{
+     padding: 10% 0% 10% 10%;
+     margin: 0% 0% 0% 0%;
+}
+
+#con1{ 
+     font-family: pop1;
+     font-weight: 900;
+     color: #facd3d;
+     font-size: 65px;
+     padding: 0% 0% 0% 0%;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#con2{
+     font-family: pop2;
+     font-weight: 900;
+     color: #ffffff ;
+     font-size: 18px;
+     padding: 4% 0% 0% 0%;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+#con3{
+     font-family: pop2;
+     font-weight: 900;
+     color: #ffffff ;
+     font-size: 18px;
+     padding: 0% 0% 0% 0%;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#con4{
+     font-family: pop2;
+     font-weight: 900;
+     color: #ffffff ;
+     font-size: 18px;
+     padding: 0% 0% 4% 0%;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}    
+     
+.toy{    
+     padding: 10% 0% 10% 0%;
+}
+#toys{
+     color:#ffffff;
+     font-size: 3.2rem;
+     font-weight: bolder;
+     font-family: pop1;
+     padding: 0% 0% 7% 0%;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#toy1{
+     background-color: rgba(255, 255, 255, 0);
+     border: solid 1px #ffffff ;
+     border-radius: 3px;
+     padding: 2% 30% 2% 2%;
+     margin: 0% 0% 2% 0%;
+     color:rgb(102, 102, 102);
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;    
+}
+#toy2{
+     background-color: rgba(255, 255, 255, 0);
+     border: solid 1px #ffffff ;
+     border-radius: 3px;
+     padding: 2% 30% 2% 2%;
+     margin: 0% 0% 2% 0%;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#toy3{
+     background-color: rgba(255, 255, 255, 0);
+     border: solid 1px #ffffff ;
+     border-radius: 3px;
+     padding: 2% 30% 2% 2%;
+     margin: 0% 0% 2% 0%;
+     color: #ffffff;
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#toy4
+{
+          background-color:#facd3d;
+          border: solid 1px #ffffff ;
+          border-radius: 3px;
+          padding: 2% 2% 2% 2%;
+          margin: 0% 0% 0% 0%;
+}
+/* #lol{
+     background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+     background-color: dimgrey;
+     background-position: center;
+     background-repeat: no-repeat;
+     width: 100%;
+
+} */
+#lol{
+     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+     animation-name: rain;
+     animation-iteration-count: infinite;
+     animation-duration: 3s;
+}
+ @keyframes rain {
+     /* 0%{
+     background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+}
+100%{
+     background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+ } }
+
+#lol{   */
+      0%{color: red;}
+     14%{color: red;  }
+     28%{color: orange;}
+     42%{color: yellow;}
+     56%{color: green;}
+     70%{color: blue;}
+     84%{color:indigo ;}
+     100%{color: violet;}
+}  
+
+
+
